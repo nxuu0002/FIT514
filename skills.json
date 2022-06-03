@@ -1,11 +1,42 @@
-﻿skills,times_appeared_in_ad
-Python,2535
-R,1981
-SQL,1933
-Tableau,917
-SAS,894
-Hadoop,686
-Scala,533
-Spark,469
-Matlab,460
-Java,459
+[
+ {
+   "skills": "Python",
+   "times_appeared_in_ad": 2535
+ },
+ {
+   "skills": "R",
+   "times_appeared_in_ad": 1981
+ },
+ {
+   "skills": "SQL",
+   "times_appeared_in_ad": 1933
+ },
+ {
+   "skills": "Tableau",
+   "times_appeared_in_ad": 917
+ },
+ {
+   "skills": "SAS",
+   "times_appeared_in_ad": 894
+ },
+ {
+   "skills": "Hadoop",
+   "times_appeared_in_ad": 686
+ },
+ {
+   "skills": "Scala",
+   "times_appeared_in_ad": 533
+ },
+ {
+   "skills": "Spark",
+   "times_appeared_in_ad": 469
+ },
+ {
+   "skills": "Matlab",
+   "times_appeared_in_ad": 460
+ },
+ {
+   "skills": "Java",
+   "times_appeared_in_ad": 459
+ }
+]

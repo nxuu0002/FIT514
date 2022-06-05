@@ -1,26 +1,26 @@
 [
  {
-   "state": "NSW",
-   "job vacancy": 1830
+   "state": "New South Wales",
+   "vacancy": 1830
  },
  {
-   "state": "VIC",
-   "job vacancy": 1324
+   "state": "Victoria",
+   "vacancy": 1324
  },
  {
-   "state": "QLD",
-   "job vacancy": 824
+   "state": "Queensland",
+   "vacancy": 824
  },
  {
-   "state": "SA",
-   "job vacancy": 268
+   "state": "South Australia",
+   "vacancy": 268
  },
  {
-   "state": "WA",
-   "job vacancy": 310
+   "state": "Western Australia",
+   "vacancy": 310
  },
  {
-   "state": "TAS",
-   "job vacancy": 41
+   "state": "Tasmania",
+   "vacancy": 41
  }
 ]

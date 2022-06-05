@@ -1,102 +1,29 @@
-[
- {
-   "job_title": "Data Scientist",
-   "number_of_occurrence": 1521
- },
- {
-   "job_title": "Lead  Data Scientist",
-   "number_of_occurrence": 519
- },
- {
-   "job_title": "Senior Data Scientust",
-   "number_of_occurrence": 364
- },
- {
-   "job_title": "Junior Dara Scientist",
-   "number_of_occurrence": 493
- },
- {
-   "job_title": "Data Engineer",
-   "number_of_occurrence": 105
- },
- {
-   "job_title": "Mathematical Statisticians",
-   "number_of_occurrence": 288
- },
- {
-   "job_title": "Assistant Directors",
-   "number_of_occurrence": 40
- },
- {
-   "job_title": "Data Analyst",
-   "number_of_occurrence": 191
- },
- {
-   "job_title": "Principal Data Scientist",
-   "number_of_occurrence": 318
- },
- {
-   "job_title": "Statisticians and Data Professionals",
-   "number_of_occurrence": 432
- },
- {
-   "job_title": "Data Science Consultant",
-   "number_of_occurrence": 66
- },
- {
-   "job_title": "Marketing Data Scientist",
-   "number_of_occurrence": 66
- },
- {
-   "job_title": "Graduate Data Scientist",
-   "number_of_occurrence": 32
- },
- {
-   "job_title": "Machine Leanrning Data Scientist",
-   "number_of_occurrence": 50
- },
- {
-   "job_title": "Lead Modelling Analyst",
-   "number_of_occurrence": 29
- },
- {
-   "job_title": "Data Modeller",
-   "number_of_occurrence": 81
- },
- {
-   "job_title": "Associate Data Scientist",
-   "number_of_occurrence": 40
- },
- {
-   "job_title": "Software Engineer",
-   "number_of_occurrence": 400
- },
- {
-   "job_title": "Product Data Scientist",
-   "number_of_occurrence": 31
- },
- {
-   "job_title": "Customer Insights Analyst",
-   "number_of_occurrence": 33
- },
- {
-   "job_title": "Technical Test Engineer",
-   "number_of_occurrence": 20
- },
- {
-   "job_title": "Data Architect",
-   "number_of_occurrence": 60
- },
- {
-   "job_title": "Solution Designer",
-   "number_of_occurrence": 55
- },
- {
-   "job_title": "Solution Arcitect",
-   "number_of_occurrence": 46
- },
- {
-   "job_title": "BI Consultant",
-   "number_of_occurrence": 28
- }
-]
+{"children": 
+ {"Data Scientist": 1521,
+ "Lead  Data Scientist": 519,
+ "Senior Data Scientist": 364,
+ "Junior Data Scientist": 493,
+ "Data Engineer": 105,
+ "Mathematical Statisticians": 288,
+ "Assistant Directors": 40,
+ "Data Analyst": 191,
+ "Principal Data Scientist": 318,
+ "Statisticians and Data Professionals": 432,
+ "Data Science Consultant": 66,
+"Marketing Data Scientist": 66,
+"Graduate Data Scientist": 32,
+"Machine Learning Data Scientist": 50,
+"Lead Modelling Analyst": 29,
+ "Data Modeller": 81,
+"Associate Data Scientist": 40,
+"Software Engineer": 400,
+"Product Data Scientist": 31,
+"Customer Insights Analyst": 33,
+"Technical Test Engineer": 20,
+"Data Architect": 60,
+"Solution Designer": 55,
+"Solution Arcitect": 46,
+"BI Consultant": 28
+    }
+  
+}

@@ -22,5 +22,13 @@
  {
    "state": "Tasmania",
    "vacancy": 41
+ },
+ {
+   "state": " Australian Capital Territory",
+   "vacancy": 3100
+ },
+ {
+   "state": "Northern Territory",
+   "vacancy": 1322
  }
 ]
